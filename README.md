@@ -11,11 +11,12 @@ algorithm that tries to organically simulate real life paintings.
 - a painterly'd image ("samurai1.png")
 
 
+###More Information###
 Details on the algorithm: http://mrl.nyu.edu/publications/painterly98/
 
 The Paper: http://mrl.nyu.edu/publications/painterly98/hertzmann-siggraph98.pdf
 
 The App: https://www.dropbox.com/sh/ottwd95ecuqwkns/k89XIv4LcU
 
-This was the final project from Computational Photography with Professor Irfan Essa
+This was a group final project from Computational Photography with Professor Irfan Essa
 at Georgia Tech : http://compphotography.wordpress.com/
