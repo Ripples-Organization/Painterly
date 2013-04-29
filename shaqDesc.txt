@@ -1,0 +1,19 @@
+shaq1
+some random painterly effects
+
+shaq2
+decreased number of brushes, increased brush ratio factor
+
+shaq3
+decreased threshold to 0
+
+shaq4
+increased BlurFactor to 5
+
+shaq5
+decreased maxStrokeLength to 1
+increased minBrushSize to 5; decreased brushRatioFactor to 3;
+increased opacity to 100%
+
+shaq6
+increase colorJitter to 100
